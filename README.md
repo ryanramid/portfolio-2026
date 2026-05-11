@@ -24,7 +24,7 @@ A proposta é apresentar um perfil de **desenvolvedor criativo**, unindo tecnolo
 
 <div align="center">
 
-🚧<img>https://imgur.com/nHFnO7L</img>🚧
+🚧<jpg>https://imgur.com/nHFnO7L</jpg>🚧
 
 ```text
 https://ryanramid.github.io/portfolio-2026/
