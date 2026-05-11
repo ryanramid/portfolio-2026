@@ -1,4 +1,4 @@
-# 🚀 Portfólio Cyberpunk Premium
+# 🚀 Portfólio 2026 Estilo Cyberpunk
 
 <div align="center">
 
@@ -28,7 +28,7 @@ A proposta é apresentar um perfil de **desenvolvedor criativo**, unindo tecnolo
 
 ```text
 https://ryanramid.github.io/portfolio-2026/
-</div>
+
 ⚡ Funcionalidades
 🎨 Interface cyberpunk com paleta neon
 💻 Terminal fake animado
@@ -49,7 +49,7 @@ JavaScript	Interatividade e animações
 JSON	Armazenamento dos dados do portfólio
 GitHub Pages	Hospedagem gratuita
 📁 Estrutura do projeto
-portfolio-cyberpunk/
+portfolio-2026/
 │
 ├── index.html
 ├── style.css
@@ -132,7 +132,7 @@ Clique em Save
 
 O link final ficará parecido com:
 
-https://seuusuario.github.io/portfolio-cyberpunk/
+https://seuusuario.github.io/portfolio-2026/
 📌 Melhorias futuras
  Adicionar projetos reais com links
  Criar seção de certificados
@@ -142,17 +142,17 @@ https://seuusuario.github.io/portfolio-cyberpunk/
  Criar versão com tema alternativo
  Adicionar animação de entrada personalizada
 👨‍💻 Autor
-<div align="center">
+
 
 Ryan Ramid
 
-Python • Análise de Dados • Design • Desenvolvimento Web
-</div>
+Python • Análise de Dados • Design 
+
 
 📬 Contato
-<div align="center">
-</div>
+ryanramid@gmail.com
 
-<div align="center">
+
 ⚡ Criatividade + Tecnologia + Dados ⚡
-</div> ```
+```
+</div>
