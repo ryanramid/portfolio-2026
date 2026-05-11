@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfólio | Ryan Ramid</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <canvas id="matrixCanvas"></canvas>
+  <div class="scanlines"></div>
+  <div class="progress-bar" id="progressBar"></div>
+  <div class="cursor" id="cursor"></div>
+
+  <header class="header">
+    <div class="logo">KataByte<span>//</span>Project</div>
+    <button class="menu-btn" id="menuBtn" aria-label="Abrir menu">☰</button>
+    <nav id="menu">
+      <a href="#sobre">Sobre</a>
+      <a href="#habilidades">Habilidades</a>
+      <a href="#projetos">Projetos</a>
+      <a href="#contato">Contato</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-content">
+        <span class="tag" id="tagline">Python • Dados • Design</span>
+        <h1 id="heroTitle">Desenvolvedor <span>Criativo</span></h1>
+        <div class="typing-line" id="typingText"></div>
+        <p id="heroDescription">Transformo ideias em soluções digitais com visual marcante, lógica bem estruturada e foco em resultados.</p>
+        <div class="buttons">
+          <a href="#projetos" class="btn">Ver Projetos</a>
+          <a href="#contato" class="btn secondary">Entrar em Contato</a>
+        </div>
+      </div>
+
+      <aside class="terminal-device tilt" id="tiltCard">
+        <div class="terminal-glow"></div>
+        <div class="terminal-device-top">
+          <div class="terminal-lights"><span></span><span></span><span></span></div>
+          <div class="terminal-device-title" id="terminalUser">System...</div>
+        </div>
+        <div class="terminal-device-screen">
+          <div class="terminal-line"><span class="prompt">$</span><span>iniciar_portfolio.sh</span></div>
+          <div class="terminal-line"><span class="prompt">></span><span>carregando identidade visual...</span></div>
+          <div class="terminal-line"><span class="prompt">></span><span>importando Python, Dados, Design...</span></div>
+          <div class="terminal-line"><span class="prompt">></span><span>status: <strong class="status-online">online</strong></span></div>
+          <div class="terminal-divider"></div>
+          <div class="terminal-line"><span class="prompt">$</span><span>habilidades --listar</span></div>
+          <div class="terminal-grid" id="terminalSkills">
+            <span>[OK] Python</span>
+            <span>[OK] Análise de Dados</span>
+            <span>[OK] Design</span>
+          </div>
+          <div class="terminal-divider"></div>
+          <div class="terminal-line"><span class="prompt">$</span><span>mensagem --loop</span></div>
+          <div class="terminal-typing-row">
+            <span class="terminal-arrow">></span>
+            <span class="typing-terminal" id="fakeTerminalTyping"></span>
+            <span class="terminal-caret"></span>
+          </div>
+        </div>
+        <div class="terminal-footer"><span>CPU 24%</span><span>RAM 42%</span><span>NETWORK ACTIVE</span></div>
+      </aside>
+    </section>
+
+    <section id="sobre">
+      <h2 class="section-title">Sobre <span>Mim</span></h2>
+      <p class="section-subtitle">Perfil voltado para tecnologia, criatividade e resolução de problemas usando código, dados e identidade visual.</p>
+      <div class="about-box reveal">
+        <p id="aboutText">Sou um desenvolvedor em evolução, com interesse em construir soluções simples, bonitas e eficientes.</p>
+        <div class="stats" id="statsContainer"></div>
+      </div>
+    </section>
+
+    <section id="habilidades">
+      <h2 class="section-title">Minhas <span>Habilidades</span></h2>
+      <p class="section-subtitle">Cards interativos com barras animadas carregando quando aparecem na tela.</p>
+      <div class="skills-grid" id="skillsContainer"></div>
+    </section>
+
+    <section id="projetos">
+      <h2 class="section-title">Projetos <span></span></h2>
+      <p class="section-subtitle">Exemplos que combinam código, dados e criatividade visual.</p>
+      <div class="projects-grid" id="projectsContainer"></div>
+      <div class="terminal reveal">
+        <div class="terminal-top"><div class="dot"></div><div class="dot"></div><div class="dot"></div><span>KBProject</span></div>
+        <div class="terminal-body" id="terminalText"></div>
+      </div>
+    </section>
+
+    <section id="contato" class="contact reveal">
+      <h2 class="section-title">Fale <span>Comigo.</span></h2>
+      <p>Estou disponível para projetos, estudos, parcerias e desafios criativos envolvendo programação, dados e design.</p>
+      <div class="buttons" id="contactButtons"></div>
+    </section>
+  </main>
+
+  <button class="back-top" id="backTop" aria-label="Voltar ao topo">↑</button>
+  <footer id="footerText">© 2026 | KataByteProject</footer>
+  <script src="script.js"></script>
+</body>
+</html>

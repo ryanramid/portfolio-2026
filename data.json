@@ -1,0 +1,31 @@
+{
+  "nome": "KBProject",
+  "usuarioTerminal": "System...",
+  "titulo": "Desenvolvedor Criativo",
+  "tagline": "Python • Dados • Design",
+  "descricao": "Transformo ideias em soluções digitais com visual marcante, lógica bem estruturada e foco em resultados. Trabalho com Python, análise de dados e design para criar experiências funcionais, modernas e impactantes.",
+  "sobre": "Sou um desenvolvedor em evolução, com interesse em construir soluções simples, bonitas e eficientes. Gosto de unir programação com design para entregar projetos que não sejam apenas funcionais, mas também visualmente fortes.",
+  "digitacao": ["Criando soluções com Python...", "Transformando dados em decisões...", "Unindo tecnologia e design...", "Construindo experiências digitais..."],
+  "terminalHero": ["criatividade + tecnologia", "soluções modernas em Python", "dados transformados em valor", "design com identidade única"],
+  "habilidades": [
+    {"nome": "Python", "descricao": "Criação de scripts, automações, tratamento de informações e desenvolvimento de soluções simples para problemas reais.", "nivel": 90},
+    {"nome": "Análise de Dados", "descricao": "Organização, leitura e interpretação de dados para gerar informações úteis, relatórios e apoio na tomada de decisão.", "nivel": 85},
+    {"nome": "Design", "descricao": "Criação de interfaces, identidade visual, artes digitais e layouts com foco em impacto visual e na boa experiência do usuário.", "nivel": 80}
+  ],
+  "stats": [
+    {"nome": "Foco em Python", "valor": 90},
+    {"nome": "Análise de Dados", "valor": 85},
+    {"nome": "Design Criativo", "valor": 80},
+    {"nome": "Desenvolvimento Web", "valor": 75}
+  ],
+  "projetos": [
+    {"titulo": "Dashboard de Dados", "descricao": "Painel visual para organizar informações, acompanhar indicadores e facilitar a análise de resultados."},
+    {"titulo": "Automação em Python", "descricao": "Sistema simples para reduzir tarefas repetitivas, validar dados e melhorar a produtividade no dia a dia."},
+    {"titulo": "Landing Page Criativa", "descricao": "Página moderna com foco em apresentação profissional."}
+  ],
+  "contato": {
+    "email": "ryanramid@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ryan-liraa",
+    "github": "https://github.com/ryanramid"
+  }
+}
