@@ -24,11 +24,8 @@ A proposta é apresentar um perfil de **desenvolvedor criativo**, unindo tecnolo
 
 <div align="center">
 
-🚧<jpg>https://imgur.com/nHFnO7L</jpg>🚧
-
+🚧https://ryanramid.github.io/portfolio-2026/🚧
 ```text
-https://ryanramid.github.io/portfolio-2026/
-
 ⚡ Funcionalidades
 🎨 Interface cyberpunk com paleta neon
 💻 Terminal fake animado
@@ -48,6 +45,9 @@ CSS3	Estilização e responsividade
 JavaScript	Interatividade e animações
 JSON	Armazenamento dos dados do portfólio
 GitHub Pages	Hospedagem gratuita
+```
+</div>
+
 📁 Estrutura do projeto
 portfolio-2026/
 │
@@ -65,10 +65,10 @@ Sobre mim
 Habilidades
 Projetos
 Contato
+
 🧬 Personalização
 
 A maior parte das informações pode ser alterada diretamente no arquivo:
-
 data.json
 
 Exemplo:
@@ -93,6 +93,8 @@ Email
 LinkedIn
 GitHub
 Frases do terminal fake
+
+<div align="center">
 🎨 Paleta de cores
 Cor	Uso
 #05070d	Fundo principal
@@ -101,8 +103,9 @@ Cor	Uso
 #9ca3af	Texto secundário
 #5ee7ff	Light blue
 #00c8ff	Azul neon forte
-🚀 Como executar localmente
+</div>
 
+🚀 Como executar localmente
 Para rodar corretamente no computador, use o Live Server no VS Code.
 
 Passo a passo
@@ -131,8 +134,9 @@ Escolha a pasta /root
 Clique em Save
 
 O link final ficará parecido com:
-
 https://seuusuario.github.io/portfolio-2026/
+
+
 📌 Melhorias futuras
  Adicionar projetos reais com links
  Criar seção de certificados
@@ -141,9 +145,9 @@ https://seuusuario.github.io/portfolio-2026/
  Melhorar SEO
  Criar versão com tema alternativo
  Adicionar animação de entrada personalizada
+
+<div align="center">
 👨‍💻 Autor
-
-
 Ryan Ramid
 
 Python • Análise de Dados • Design 
@@ -154,5 +158,6 @@ ryanramid@gmail.com
 
 
 ⚡ Criatividade + Tecnologia + Dados ⚡
+</div>
 ```
 </div>
