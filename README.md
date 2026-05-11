@@ -209,8 +209,8 @@ https://seuusuario.github.io/portfolio-2026/
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-05070d?style=for-the-badge&logo=linkedin&logoColor=5ee7ff)](https://www.linkedin.com/ryan-liraa)
-[![GitHub](https://img.shields.io/badge/GitHub-05070d?style=for-the-badge&logo=github&logoColor=5ee7ff)](https://github.com/)
-[![Email](https://img.shields.io/badge/Email-05070d?style=for-the-badge&logo=gmail&logoColor=5ee7ff)](mailto:seuemail@exemplo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-05070d?style=for-the-badge&logo=github&logoColor=5ee7ff)](https://github.com/ryanramid)
+[![Email](https://img.shields.io/badge/Email-05070d?style=for-the-badge&logo=gmail&logoColor=5ee7ff)](mailto:ryanramid@gmail.com.br)
 
 </div>
 
