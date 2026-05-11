@@ -27,7 +27,7 @@ A proposta é apresentar um perfil de **desenvolvedor criativo**, unindo tecnolo
 🚧 Adicione aqui um print do projeto ou o link do GitHub Pages 🚧
 
 ```text
-https://seuusuario.github.io/portfolio-cyberpunk/
+https://ryanramid.github.io/portfolio-2026/
 </div>
 ⚡ Funcionalidades
 🎨 Interface cyberpunk com paleta neon
@@ -107,10 +107,10 @@ Para rodar corretamente no computador, use o Live Server no VS Code.
 
 Passo a passo
 # Clone o repositório
-git clone https://github.com/seuusuario/portfolio-cyberpunk.git
+git clone https://github.com/ryanramid/portfolio-2026.git
 
 # Acesse a pasta
-cd portfolio-cyberpunk
+cd portfolio-2026
 
 Depois:
 
@@ -147,17 +147,12 @@ https://seuusuario.github.io/portfolio-cyberpunk/
 Ryan Ramid
 
 Python • Análise de Dados • Design • Desenvolvimento Web
-
 </div>
+
 📬 Contato
 <div align="center">
-
-
-
-
-
-
 </div>
+
 <div align="center">
 ⚡ Criatividade + Tecnologia + Dados ⚡
 </div> ```
